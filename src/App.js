@@ -1,7 +1,8 @@
 import logo from "./logo.svg";
 import "./App.css";
+import test from "./test.svg";
 
-function App() {
+function App({id}) {
   return (
     <div className="App">
       <header className="App-header">
